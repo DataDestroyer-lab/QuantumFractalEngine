@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glew-subbuild/CMakeFiles/glew-populate"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glew-subbuild/CMakeFiles/1dab45f51c3b763ebc7864cd89287cf8/glew-populate.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glew-subbuild/CMakeFiles/9ddb2c67ac771e39d1b055947b74106b/glew-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glew-subbuild/CMakeFiles/eabdfd9727e90e1efbc2ec52bd473a52/glew-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glew-subbuild/CMakeFiles/eabdfd9727e90e1efbc2ec52bd473a52/glew-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glew-subbuild/CMakeFiles/eabdfd9727e90e1efbc2ec52bd473a52/glew-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glew-subbuild/CMakeFiles/eabdfd9727e90e1efbc2ec52bd473a52/glew-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glew-subbuild/CMakeFiles/eabdfd9727e90e1efbc2ec52bd473a52/glew-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glew-subbuild/CMakeFiles/eabdfd9727e90e1efbc2ec52bd473a52/glew-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glew-subbuild/CMakeFiles/eabdfd9727e90e1efbc2ec52bd473a52/glew-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glew-subbuild/CMakeFiles/eabdfd9727e90e1efbc2ec52bd473a52/glew-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glew-populate"
+		],
+		"name" : "glew-populate"
+	}
+}

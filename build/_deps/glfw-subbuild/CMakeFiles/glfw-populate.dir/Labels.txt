@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/f63fa328886d3922c80720e4e0ee6254/glfw-populate.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/794949dc7e8572ccdf0b3de2cebd4217/glfw-populate-complete.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-build.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-configure.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-download.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-install.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-mkdir.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-patch.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-test.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-update.rule

@@ -1,5 +1,10 @@
+// QuantumEngine implementation
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
 #include "QuantumEngine.h"
 #include "Config.h"
+#include <cstdio>
+#include <cstdlib>
 
 #ifdef ENABLE_CUDA
 #include <cuda_gl_interop.h>
@@ -15,6 +20,8 @@
     } while (0)
 extern "C" void launchQuantumKernel(float4* field, int width, int height, float time);
 #endif
+
+QuantumEngine::QuantumEngine() {}
 
 void QuantumEngine::Init() {
     glGenTextures(1, &textureID);
@@ -81,6 +88,7 @@ void QuantumEngine::Update(float dt) {
 #else
     computeShader->use();
     computeShader->setFloat("dt", dt);
+    glBindImageTexture(1, textureID, 0, GL_FALSE, 0, GL_READ_WRITE, GL_RGBA32F);
     glDispatchCompute(Config::SIM_RES / 32, Config::SIM_RES / 32, 1);
     glMemoryBarrier(GL_SHADER_IMAGE_ACCESS_BARRIER_BIT);
 #endif

@@ -1,0 +1,32 @@
+#version 460 core
+layout (local_size_x = 32, local_size_y = 32) in;
+
+layout (rg32f, binding = 0) uniform image2D imgHeight;
+
+uniform float dt;
+
+void main() {
+    ivec2 coords = ivec2(gl_GlobalInvocationID.xy);
+    ivec2 size = imageSize(imgHeight);
+    if(coords.x >= size.x || coords.y >= size.y) return;
+
+    vec2 state = imageLoad(imgHeight, coords).rg;
+    float h = state.r;
+    float v = state.g;
+
+    float h_l = imageLoad(imgHeight, coords + ivec2(-1,0)).r;
+    float h_r = imageLoad(imgHeight, coords + ivec2( 1,0)).r;
+    float h_u = imageLoad(imgHeight, coords + ivec2( 0,1)).r;
+    float h_d = imageLoad(imgHeight, coords + ivec2( 0,-1)).r;
+
+    float force = (h_l + h_r + h_u + h_d - 4.0 * h) * 100.0;
+    v += force * dt;
+    v *= 0.99; 
+    h += v * dt;
+
+    if(fract(sin(dt * float(coords.x) * 12.9898) * 43758.5453) > 0.99995) {
+        h += 5.0;
+    }
+
+    imageStore(imgHeight, coords, vec4(h, v, 0, 1));
+}

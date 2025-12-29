@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/f63fa328886d3922c80720e4e0ee6254/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/794949dc7e8572ccdf0b3de2cebd4217/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-subbuild/CMakeFiles/c2a70546b96c7edd8ea6dee149981b14/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

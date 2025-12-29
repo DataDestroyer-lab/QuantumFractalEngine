@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/JACIE/Desktop/QuantumFractalEngine/build/cmake_install.cmake",
+		"C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glfw-build/docs/cmake_install.cmake",
+		"C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glm-build/cmake_install.cmake",
+		"C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glm-build/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,20 @@
+#version 460 core
+layout (local_size_x = 32, local_size_y = 32) in;
+
+layout (rgba32f, binding = 1) uniform image2D imgQuantum;
+
+uniform float dt;
+
+void main() {
+    ivec2 coords = ivec2(gl_GlobalInvocationID.xy);
+    vec4 psi = imageLoad(imgQuantum, coords);
+    
+    vec2 uv = vec2(coords) / vec2(imageSize(imgQuantum));
+    
+    float t = dt * 10.0;
+    float val = sin(uv.x * 50.0 + t) * cos(uv.y * 50.0 + t);
+    
+    psi.b = val * val; 
+
+    imageStore(imgQuantum, coords, vec4(val, 0, psi.b, 1));
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeFiles\c2a70546b96c7edd8ea6dee149981b14\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeFiles\c2a70546b96c7edd8ea6dee149981b14\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeFiles\c2a70546b96c7edd8ea6dee149981b14\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeFiles\c2a70546b96c7edd8ea6dee149981b14\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeFiles\c2a70546b96c7edd8ea6dee149981b14\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeFiles\c2a70546b96c7edd8ea6dee149981b14\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeFiles\c2a70546b96c7edd8ea6dee149981b14\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeFiles\c2a70546b96c7edd8ea6dee149981b14\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeFiles\794949dc7e8572ccdf0b3de2cebd4217\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeFiles\f63fa328886d3922c80720e4e0ee6254\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A98960A1-50B0-369F-A853-6594B7B5DB70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

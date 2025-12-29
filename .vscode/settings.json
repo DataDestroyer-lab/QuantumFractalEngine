@@ -1,4 +1,10 @@
 {
+    "cmake.configureOnOpen": false,
+    "files.exclude": {
+        "**/build": true
+    }
+}
+{
     "files.associations": {
         "*.cu": "cuda-cpp"
     },

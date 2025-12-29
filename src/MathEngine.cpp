@@ -1,4 +1,9 @@
+// MathEngine implementation
 #include "MathEngine.h"
+#include <random>
+
+MathEngine::MathEngine() {}
+MathEngine::~MathEngine() {}
 
 std::mt19937 MathEngine::s_Gen;
 

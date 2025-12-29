@@ -1,10 +1,13 @@
+// QuantumEngine: optional CUDA accelerated compute engine and resource management
 #pragma once
 #include "Shader.h"
 
 class QuantumEngine {
 public:
+    QuantumEngine();
+    ~QuantumEngine();
+
     void Init();
-    ~QuantumEngine(); // Destructor for resource cleanup
     void Update(float dt);
     unsigned int GetFieldTexture() const { return textureID; }
 private:

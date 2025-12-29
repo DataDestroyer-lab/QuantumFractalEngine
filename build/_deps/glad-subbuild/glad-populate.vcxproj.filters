@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeFiles\dc023d25609a1cc3ef6221020da68a7c\glad-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeFiles\dc023d25609a1cc3ef6221020da68a7c\glad-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeFiles\dc023d25609a1cc3ef6221020da68a7c\glad-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeFiles\dc023d25609a1cc3ef6221020da68a7c\glad-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeFiles\dc023d25609a1cc3ef6221020da68a7c\glad-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeFiles\dc023d25609a1cc3ef6221020da68a7c\glad-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeFiles\dc023d25609a1cc3ef6221020da68a7c\glad-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeFiles\dc023d25609a1cc3ef6221020da68a7c\glad-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeFiles\2f4c7f447423d908d28b00a376b36064\glad-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeFiles\a535646a10478ecc7ebddfaca62a0f5f\glad-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glad-subbuild\CMakeFiles\glad-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1AC7A514-CC92-3E9C-A528-8FEB02B999EC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

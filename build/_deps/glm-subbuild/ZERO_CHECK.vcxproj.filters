@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glm-subbuild\CMakeFiles\175d18847269892c8b849464708333bc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EE89C7CF-3314-3C5B-85FC-7D26CDCCF508}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

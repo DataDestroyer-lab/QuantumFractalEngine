@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\CMakeFiles\af461fdf1ee93a821a81b09488d980b6\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-src\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-src\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-src\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glfw-build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{491C63F1-C2A9-3F40-BD74-9882456E32EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D1DF4E4D-01CA-32D8-8786-C09E769CAC6A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

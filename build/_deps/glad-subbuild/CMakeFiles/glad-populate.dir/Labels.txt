@@ -1,0 +1,14 @@
+# Target labels
+ glad-populate
+# Source files and their labels
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glad-subbuild/CMakeFiles/glad-populate
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glad-subbuild/CMakeFiles/a535646a10478ecc7ebddfaca62a0f5f/glad-populate.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glad-subbuild/CMakeFiles/2f4c7f447423d908d28b00a376b36064/glad-populate-complete.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glad-subbuild/CMakeFiles/dc023d25609a1cc3ef6221020da68a7c/glad-populate-build.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glad-subbuild/CMakeFiles/dc023d25609a1cc3ef6221020da68a7c/glad-populate-configure.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glad-subbuild/CMakeFiles/dc023d25609a1cc3ef6221020da68a7c/glad-populate-download.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glad-subbuild/CMakeFiles/dc023d25609a1cc3ef6221020da68a7c/glad-populate-install.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glad-subbuild/CMakeFiles/dc023d25609a1cc3ef6221020da68a7c/glad-populate-mkdir.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glad-subbuild/CMakeFiles/dc023d25609a1cc3ef6221020da68a7c/glad-populate-patch.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glad-subbuild/CMakeFiles/dc023d25609a1cc3ef6221020da68a7c/glad-populate-test.rule
+C:/Users/JACIE/Desktop/QuantumFractalEngine/build/_deps/glad-subbuild/CMakeFiles/dc023d25609a1cc3ef6221020da68a7c/glad-populate-update.rule

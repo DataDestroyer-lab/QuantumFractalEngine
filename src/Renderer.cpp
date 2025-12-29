@@ -1,7 +1,7 @@
+// Renderer implementation
 #include "Renderer.h"
+#include "Config.h"
 #include <glm/gtc/matrix_transform.hpp>
-
-Renderer::Renderer(GLFWwindow* win) : window(win) {}
 
 // Initialize static members
 bool Renderer::firstMouse = true;

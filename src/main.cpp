@@ -2,7 +2,6 @@
 #include <GLFW/glfw3.h>
 #include <iostream>
 #include "Config.h"
-#include "glad/glad.h" // Include GLAD header
 #include "Renderer.h"
 #include "MathEngine.h"
 

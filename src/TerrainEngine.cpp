@@ -1,11 +1,15 @@
+// TerrainEngine implementation
+#include <glad/glad.h>
 #include "TerrainEngine.h"
 #include "Config.h"
+#include <vector>
+
+TerrainEngine::TerrainEngine() {}
 
 void TerrainEngine::Init() {
     shader = new Shader("shaders/terrain.vert", "shaders/terrain.frag");
     generateMesh();
 }
-
 
 TerrainEngine::~TerrainEngine() {
     if (shader) delete shader;

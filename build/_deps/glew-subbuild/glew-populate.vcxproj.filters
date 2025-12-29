@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeFiles\eabdfd9727e90e1efbc2ec52bd473a52\glew-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeFiles\eabdfd9727e90e1efbc2ec52bd473a52\glew-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeFiles\eabdfd9727e90e1efbc2ec52bd473a52\glew-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeFiles\eabdfd9727e90e1efbc2ec52bd473a52\glew-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeFiles\eabdfd9727e90e1efbc2ec52bd473a52\glew-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeFiles\eabdfd9727e90e1efbc2ec52bd473a52\glew-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeFiles\eabdfd9727e90e1efbc2ec52bd473a52\glew-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeFiles\eabdfd9727e90e1efbc2ec52bd473a52\glew-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeFiles\9ddb2c67ac771e39d1b055947b74106b\glew-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeFiles\1dab45f51c3b763ebc7864cd89287cf8\glew-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\JACIE\Desktop\QuantumFractalEngine\build\_deps\glew-subbuild\CMakeFiles\glew-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{546CA5F1-1C45-3EFC-A039-E6F4B688DFED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
