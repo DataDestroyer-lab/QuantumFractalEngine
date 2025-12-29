@@ -11,6 +11,8 @@ QuantumFractalEngine is a high-performance C++ rendering engine combining proced
 *   **Magnetic Field Visualization**: Interactive magnetic field visualization with vector field arrows.
 *   **Real-time Editor**: Integrated ImGui interface for tweaking simulation parameters, weather, and visual settings on the fly.
 *   **Day/Night Cycle**: Dynamic sky and lighting adjustments.
+<img width="1592" height="902" alt="Screenshot 2025-12-28 232828" src="https://github.com/user-attachments/assets/0462d643-6553-4655-9f10-037cb059853f" />
+<img width="1564" height="848" alt="Screenshot 2025-12-28 233723" src="https://github.com/user-attachments/assets/8541f5c7-1e34-4922-a8b8-943bdc807c61" />
 
 ## Prerequisites
 
